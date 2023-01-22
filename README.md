@@ -12,4 +12,4 @@ Just Another Text Editor
 # Usage
 - After running "npm start" in your terminal you should now be able to run the application using the localhost in your browser. If you wish to continue using the app offline you can simply click "install" located at the top right of the application
 
-Here is a link to the Heroku app:https://justanothertext.herokuapp.com/
+Here is a link to the Heroku app:https://justanothertext.herokuapp.com/<img width="1440" alt="Screen Shot 2023-01-21 at 10 22 59 PM" src="https://user-images.githubusercontent.com/73671454/213900653-46fadf32-74a9-4267-98c0-d633fd2846f9.png">
